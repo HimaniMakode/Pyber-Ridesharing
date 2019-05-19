@@ -1,8 +1,6 @@
 # Pyber-Ridesharing
 Ridesharing company data analysis to provide market differentiation insights using Pandas, Matplotlib and Jupyter Notebook.
 
-Pyber Ridesharing Company
-
 Background
 
 Pyber is a ride sharing company. Analyzing and providing data-backed guidance on new opportunities for market differentiation. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
